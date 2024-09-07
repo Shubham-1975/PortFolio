@@ -30,7 +30,7 @@ sddfdfsdfs
                         <div className="timeline-date mx-4"> {date}</div>
                       </div>
 
-                      <div className="timeline-content border carddecorate col-12">
+                      <div className="timeline-content border carddecorate col-12 overflow-hidden">
                         <h3>{title}</h3>
                         <p className="colr">
                           {description} <br />

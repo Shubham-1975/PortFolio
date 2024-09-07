@@ -13,9 +13,10 @@ function Technical() {
           {SkillCardData.map((val, index) => {
             return (
               <>
-                <div
+              <div className="col-12 col-xl-4 col-md-4  d-flex justify-content-around align-items-center">
+              <div
                   key={index}
-                  className="card my-4 d-flex justify-content-center align-items-center col-12 c0l-md-12 carddecorate"
+                  className="card my-4 carddecorate overflow-hidden "
                   style={{ width: "18rem" }}
                 >
                   <img
@@ -29,6 +30,8 @@ function Technical() {
                     <p className="card-text ">{val.body}</p>
                   </div>
                 </div>
+              </div>
+                
               </>
             );
           })}

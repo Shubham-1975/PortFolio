@@ -17,7 +17,7 @@ function Project() {
               <>
                 <div className="container  col-xl-6 d-flex col-md-6 justify-content-around align-content-center">
                   <div
-                    className=" border mb-3 carddecorate my-5 rounded"
+                    className=" border mb-3 carddecorate my-5 rounded  overflow-hidden"
                     style={{ maxWidth: "540px" }}
                   >
                     <div className="row g-0 d-flex  justify-content-around ">

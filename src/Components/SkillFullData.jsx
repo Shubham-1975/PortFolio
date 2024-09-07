@@ -6,7 +6,7 @@ const WebDevData = [
   },
   {
     id: 2,
-    imgsrc: "../../public/Images/css2.png",
+     imgsrc: "../../public/Images/css2.png",
     title:'CSS'
   },
   {
