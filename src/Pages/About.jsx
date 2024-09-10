@@ -1,5 +1,5 @@
 import React from "react";
-import imgshu from "../../public/images/shubh3.jpg";
+import imgshu from "../assets/Images/shubh3.jpg";
 import { FaPhoneAlt } from "react-icons/fa";
 import { CgMail } from "react-icons/cg";
 import { BiWorld } from "react-icons/bi";

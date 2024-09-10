@@ -1,5 +1,5 @@
 import React from "react";
-import imgshu from "../../public/images/shubhimg.png";
+import imgshu from "../assets/images/shubhimg.png";
 import pdfr from "../../public/pdf/resume.pdf";
 import { Typewriter } from "react-simple-typewriter";
 

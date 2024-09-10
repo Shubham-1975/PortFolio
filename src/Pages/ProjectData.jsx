@@ -1,4 +1,4 @@
-import weatherimg from '../../public/images/weather4.png';
+import weatherimg from '../assets/images/weather4.png';
 
 const ProjectData = [
   {
