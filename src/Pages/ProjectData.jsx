@@ -1,25 +1,27 @@
+import weatherimg from '../../public/images/weather4.png';
+
 const ProjectData = [
   {
     id:1,
-   imgsrc:'../../public/Images/weather4.png',
+   imgsrc: weatherimg,
    title:"Weather Check",
    body:"rem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, ab fugit dolore labore nemo, incidunt nihil error, recusandae molestiae fuga veritatis? Soluta enim debitis eius ducimus at in, non delectus?"
   },
   {
     id:2,
-    imgsrc:'../../public/Images/event.jpg',
+    imgsrc:weatherimg,
     title:"Weather Check",
     body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, ab fugit dolore labore nemo, incidunt nihil error, recusandae molestiae fuga veritatis? Soluta enim debitis eius ducimus at in, non delectus?"
   },
   {
     id:3,
-    imgsrc:'../../public/Images/SCHOOL.jpeg',
+    imgsrc:weatherimg,
     title:"Weather Check",
     body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, ab fugit dolore labore nemo, incidunt nihil error, recusandae molestiae fuga veritatis? Soluta enim debitis eius ducimus at in, non delectus?"
   },
   {
     id:4,
-    imgsrc:'../../public/Images/COLLEGE2.jpg',
+    imgsrc:weatherimg,
     title:"Weather Check",
     body: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, ab fugit dolore labore nemo, incidunt nihil error, recusandae molestiae fuga veritatis? Soluta enim debitis eius ducimus at in, non delectus?"
   },
