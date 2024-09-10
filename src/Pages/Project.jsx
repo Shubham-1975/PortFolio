@@ -30,8 +30,8 @@ function Project() {
                       </div>
                       <div className="col-md-6">
                         <div className="card-body">
-                          <h5 className="card-title">{val.title}</h5>
-                          <p className="card-text">
+                          <h5 className="card-title text-warning">{val.title}</h5>
+                          <p className="card-text colr text-start mx-2 ">
                             {val.body }
                           </p>
                           <p className="card-text cardlink mb-3">

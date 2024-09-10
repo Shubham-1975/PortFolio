@@ -1,37 +1,51 @@
+import html from '../assets/images/html3.png'
+import css from '../assets/images/css2.png'
+import js from '../assets/images/js2.png'
+import react from '../assets/images/react1.png'
+import exp from '../assets/images/express1.png'
+import nodejs from '../assets/images/node_js1.png'
+import mongodb from '../assets/images/mongodb1.png'
+
+import c from '../assets/images/c1.png'
+import cpp from '../assets/images/cpp.png'
+import java from '../assets/images/java1.png'
+import python from '../assets/images/python.png'
+
+
 const WebDevData = [
   {
     id: 1,
-    imgsrc: "../../public/Images/html3.png",
+    imgsrc: html,
     title:'HTML'
   },
   {
     id: 2,
-     imgsrc: "../../public/Images/css2.png",
+     imgsrc: css,
     title:'CSS'
   },
   {
     id: 3,
-    imgsrc: "../../public/Images/js2.png",
+    imgsrc:js,
     title:'JAVA SCRIPT'
   },
   {
     id: 4,
-    imgsrc: "../../public/Images/react1.png",
+    imgsrc: react,
     title:'REACT'
   },
   {
     id: 5,
-    imgsrc: "../../public/Images/express1.png",
+    imgsrc: exp,
     title:'EXPRESS JS'
   },
   {
     id: 6,
-    imgsrc: "../../public/Images/node_js1.png",
+    imgsrc: nodejs,
     title:'NODE JS'
   },
   {
     id: 7,
-    imgsrc: "../../public/Images/mongodb1.png",
+    imgsrc: mongodb,
     title:'MONGODB'
   },
 ];
@@ -39,22 +53,22 @@ const WebDevData = [
 const ProgrammingData = [
   {
     id:1,
-    imgsrc:'../../public/Images/c1.png',
+    imgsrc:'c',
     title:'C'
   },
   {
     id:2,
-    imgsrc:'../../public/Images/c++1.png',
+    imgsrc:cpp,
     title:'C++'
   },
   {
     id:3,
-    imgsrc:'../../public/Images/java1.png',
+    imgsrc:java,
     title:'JAVA'
   },
   {
     id:4,
-    imgsrc:'../../public/Images/python.png',
+    imgsrc:python,
     title:'PYTHON'
   },
 ]

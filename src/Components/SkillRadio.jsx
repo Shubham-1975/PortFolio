@@ -13,6 +13,7 @@ function SkillRadio() {
           <label
             className="form-check-label text-warning"
             htmlFor="inlineRadio1"
+            
           >
             Technical Skill
           </label>
@@ -25,6 +26,7 @@ function SkillRadio() {
             type="radio"
             name="inlineRadioOptions"
             id="inlineRadio1"
+            defaultChecked
           />
         </div>
 
